@@ -1,12 +1,8 @@
 public class Student {
 
 
-    // Naming rules
-    // case sensitive
-    // printing text in console
-    // comments
-    // variables cant contain reserved keywords
-    //statically typed langhuage//
+
+
 
 
 
